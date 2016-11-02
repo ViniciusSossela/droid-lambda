@@ -22,11 +22,13 @@ public class MainActivity extends AppCompatActivity {
         buttonListenerWithLambda();
     }
 
+    //Example of button listener with lambda
     private void buttonListenerWithLambda() {
         lambdaButton = (Button)findViewById(R.id.lambda_button);
         lambdaButton.setOnClickListener(v -> Toast.makeText(this, "Heey, lambda works!", Toast.LENGTH_SHORT).show());
     }
 
+    //Example of button listener in old way
     private void buttonListenerWithoutLambda() {
         Button button = (Button)findViewById(R.id.lambda_button);
         button.setOnClickListener(new View.OnClickListener() {
@@ -37,10 +39,12 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    //Example of lambda use to filter lists
     private void lambdaWayFilter() {
         List<User> olderUsers = usersList().stream().filter(u -> u.age > 30).collect(Collectors.toList());
     }
 
+    //Example of old way to filter a list
     private void oldJavaWay() {
         List<User> olderUsers = new ArrayList<>();
         for (User u : usersList()) {
