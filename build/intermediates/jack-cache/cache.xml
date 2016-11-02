@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-19f1b9e62818fe4c75671f78fabb49f4d47bce98.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-767aadce5211c1ffd12d2e6b8fbcbd34af4b25ca.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.0"
+        sha1="521e47459f279665cc697ca47f803cafc6a1244b">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-aa7cdc475725137796f528069f9da266a0ca2859.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b64a2488d84918acb0d023388576de9dbf04ad2b.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-ff57d1c525fffed957b5b557c1154c0cb2e2ebda.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-dacb1ca7908b15469b0062329a264fa2f8834fac.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-392a77b57ec55e038e88409d4b5dfc920164e738.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.0.0-212d611661d84890e44faad6fd04b59936f7cde7.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.0"
+        sha1="3f13c050c692a10c3ef02d18104acd7c9fb6271d">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-8339437b305609a105d034f7b3004353a27e3547.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-377028e0329efb9507e86c200ecff415b58e4735.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-455fbc5fda7c6509f6eb2e98d6402fd93d852d4a.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4cbfb7b94acaab07e9e6b4b169e95913f04db8ed.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-505e98e4013d00bc6f6a795cc392fb6c48d24265.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-af437e016f790b30dd9e0167233241262b6cf870.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2cee091b0357033b26996d19d47e39a36d55e0ff.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-56459b0a3d2bfc96f3794b7e17a7a80265ede01e.jar" />
+    </item>
+    <item
+        jar="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/vsossella/Documents/workspace/retrofit-cache/adept-android/Lambda/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-75dce6738025eb333774598c7585e00180d63531.jar" />
+    </item>
+
+</items>
