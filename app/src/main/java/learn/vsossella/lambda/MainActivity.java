@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getBaseContext(), "Button clicked without lambda", Toast.LENGTH_LONG).show();
+                lambdaWayFilter();
             }
         });
     }
@@ -42,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
     //Example of lambda use to filter lists
     private void lambdaWayFilter() {
         List<User> olderUsers = usersList().stream().filter(u -> u.age > 30).collect(Collectors.toList());
+        olderUsers.forEach(u -> System.out.println("\t" + u.name));
     }
 
     //Example of old way to filter a list
